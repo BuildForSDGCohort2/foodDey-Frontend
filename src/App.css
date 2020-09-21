@@ -6,13 +6,6 @@
   height: 40vmin;
   pointer-events: none;
 }
-.App .button{
-  background-color: rgb(120, 187, 255);
-  border-radius: 10px;
-}
-.App .button-all{
-  margin: 5px;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
